@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> <title>site title</title>
 </head>
 <body>
 </body>
